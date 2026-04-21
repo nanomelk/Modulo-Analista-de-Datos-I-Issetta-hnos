@@ -89,11 +89,66 @@ df = pd.DataFrame(data, columns=[
 ])
 
 # -----------------------------
-# 4. Guardar CSV
+# 4. Agregar margen de error
+# -----------------------------
+margen_error = 0.05
+n_errores = int(len(df) * margen_error)
+
+filas_con_error = np.random.choice(df.index, size=n_errores, replace=False)
+tipos_error = (
+    ["nulo"] * (n_errores // 3) +
+    ["outlier"] * (n_errores // 3) +
+    ["inconsistencia"] * (n_errores - 2 * (n_errores // 3))
+)
+random.shuffle(tipos_error)
+
+for fila, tipo_error in zip(filas_con_error, tipos_error):
+    if tipo_error == "nulo":
+        columna = random.choice([
+            "nombre_producto",
+            "categoria",
+            "stock_inicial",
+            "cantidad_ingresada",
+            "cantidad_egresada",
+            "stock_final",
+            "stock_minimo",
+            "proveedor",
+            "tiempo_reposicion_dias",
+            "estado_stock"
+        ])
+        df.loc[fila, columna] = np.nan
+
+    elif tipo_error == "outlier":
+        columna = random.choice([
+            "stock_inicial",
+            "cantidad_ingresada",
+            "cantidad_egresada",
+            "stock_final",
+            "stock_minimo",
+            "tiempo_reposicion_dias"
+        ])
+        df.loc[fila, columna] = random.choice([
+            np.random.randint(1000, 5000),
+            np.random.randint(-500, -1)
+        ])
+
+    else:
+        error = random.choice(["fecha_futura", "categoria_invalida", "estado_invalido"])
+
+        if error == "fecha_futura":
+            df.loc[fila, "fecha"] = datetime(2035, 1, 1)
+        elif error == "categoria_invalida":
+            df.loc[fila, "categoria"] = "Categoria desconocida"
+        else:
+            df.loc[fila, "estado_stock"] = "error"
+
+# -----------------------------
+# 5. Guardar CSV
 # -----------------------------
 df.to_csv("dataset_inventario.csv", index=False)
 
-print("Dataset generado correctamente 🚀")
+print("Dataset generado correctamente")
 
 print("Script ejecutado correctamente")
 print("Filas generadas:", len(df))
+print("Filas con errores simulados:", n_errores)

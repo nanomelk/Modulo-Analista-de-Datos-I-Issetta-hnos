@@ -9,7 +9,7 @@ import os
 # -----------------------------
 df_productos = pd.read_excel("productos.xlsx")
 # Ajustá el nombre de la columna si hace falta
-col_nombre = df_productos.columns[1]  # normalmente la 2da columna
+col_nombre = df_productos.columns[0]  # normalmente la 2da columna
 productos = df_productos[col_nombre].dropna().unique()
 
 # Categorías ficticias
@@ -145,7 +145,7 @@ for fila, tipo_error in zip(filas_con_error, tipos_error):
 # -----------------------------
 # 5. Guardar CSV
 # -----------------------------
-df.to_csv("dataset_inventario.csv", index=False)
+df.to_csv("dataset_inventario_errores_1.csv", index=False)
 
 print("Dataset generado correctamente")
 

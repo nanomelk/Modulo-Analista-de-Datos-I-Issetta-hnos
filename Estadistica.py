@@ -9,7 +9,7 @@ import os
 # -----------------------------
 df_productos = pd.read_excel("productos.xlsx")
 # Ajustá el nombre de la columna si hace falta
-col_nombre = df_productos.columns[0]  # normalmente la 2da columna
+col_nombre = df_productos.columns[0]  # normalmente la 1da columna
 productos = df_productos[col_nombre].dropna().unique()
 
 # Categorías ficticias

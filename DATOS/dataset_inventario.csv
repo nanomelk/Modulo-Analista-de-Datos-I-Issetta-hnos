@@ -1,0 +1,501 @@
+id_producto,nombre_producto,categoria,fecha,stock_inicial,cantidad_ingresada,cantidad_egresada,stock_final,stock_minimo,proveedor,tiempo_reposicion_dias,estado_stock
+0,piñon masa 3/8 z12 iso ,Hidraulico,2025-04-19,26.0,4.0,9,21.0,23.0,Proveedor A,2,critico
+1,cable de programacion para pc,Mecanica,2025-01-21,152.0,17.0,1,168.0,34.0,Proveedor C,12,ok
+2,PIÑON Z10 DIAM.25 S/CHAV.880,Mecanica,2025-01-13,146.0,20.0,36,130.0,34.0,Proveedor A,9,ok
+3,maciso diam 6,Electrico,2025-05-16,82.0,3.0,28,57.0,12.0,Proveedor C,3,ok
+4,Llaves termomagneticas unipolareas 5Amperes 2 cajas,Hidraulico,2025-06-10,47.0,17.0,28,36.0,38.0,Proveedor B,2,critico
+5,Pulsador de emergencia NC,Hidraulico,2025-01-20,51.0,12.0,21,42.0,17.0,Proveedor A,11,ok
+6,ARANDELA PLANA MET 8 304,Electrico,2025-04-05,44.0,11.0,24,31.0,20.0,Proveedor C,1,ok
+7,rodamientos bols,Electrico,2025-05-13,52.0,7.0,37,22.0,39.0,Proveedor B,1,critico
+8,SKT TORN ALLEN C/CIL M6X20,Electrico,2025-01-29,88.0,15.0,21,82.0,11.0,Proveedor A,2,ok
+9,cable canal 60 x60,Mecanica,2025-04-15,188.0,12.0,27,173.0,40.0,Proveedor C,7,ok
+10,DELRIN: DIAM. 65,Mecanica,2025-02-10,147.0,12.0,11,148.0,49.0,Proveedor A,6,ok
+11,allen m16x30,Hidraulico,2025-06-05,158.0,23.0,38,143.0,12.0,Proveedor A,5,ok
+12,tuerca m12,Electrico,2025-06-20,146.0,18.0,13,151.0,41.0,Proveedor C,14,ok
+13,BULON CAB.EXAG 10X20,Hidraulico,2025-01-04,26.0,16.0,15,27.0,18.0,Proveedor C,2,bajo
+14,PULSADOR RASANTE METALICO VERDE,Hidraulico,2025-02-04,184.0,9.0,24,169.0,32.0,Proveedor A,2,ok
+15,codo p/soldar,Mecanica,2025-06-13,89.0,12.0,24,77.0,38.0,Proveedor A,14,ok
+16,Allen cilindric Met 5*25,Electrico,2025-01-28,100.0,14.0,15,99.0,16.0,Proveedor B,2,ok
+17,"CODOS 6-1/4 A""",Herramientas,2025-06-08,81.0,19.0,15,85.0,21.0,Proveedor B,14,ok
+18,ALLEN CAB/BOTON MET 8X16 304,Electrico,2025-04-18,55.0,15.0,10,60.0,22.0,Proveedor A,10,ok
+19,"SILENCIADOR 1/4 A""",Herramientas,2025-01-28,50.0,21.0,34,37.0,27.0,Proveedor C,4,bajo
+20,macizo trafilar 304 12mm,Electrico,2025-01-10,113.0,12.0,8,117.0,48.0,Proveedor A,1,ok
+21,Mordaza n cruz ⌀10 c/Perilla,Electrico,2025-01-08,57.0,19.0,19,57.0,39.0,Proveedor B,14,bajo
+22,sensor  inductivo ,Electrico,2025-04-30,199.0,15.0,14,200.0,22.0,Proveedor B,6,ok
+23,Tuerca autofrenante metrica 12 304,Mecanica,2025-02-25,64.0,24.0,27,61.0,33.0,Proveedor A,9,ok
+24,limpiamanos  industrial x 5 litr,Electrico,2025-05-23,126.0,15.0,22,119.0,10.0,Proveedor A,11,ok
+25,REG. DE CAUDAL 4MM X M5,Hidraulico,2025-04-23,140.0,9.0,23,126.0,21.0,Proveedor C,8,ok
+26,mordaza simple d10c vastago 12 x100,Hidraulico,2025-01-22,132.0,5.0,20,117.0,10.0,Proveedor C,14,ok
+27,"CABLE UNITONIC FD CY 4X0,34mm",Herramientas,2025-05-13,39.0,19.0,19,39.0,24.0,Proveedor C,2,ok
+28,m100 5f maniful tamaño 1 para 5 valvulas ,Categoria desconocida,2025-06-05,118.0,6.0,16,108.0,26.0,Proveedor C,3,ok
+29,correa redonda  ,Herramientas,2025-04-23,155.0,16.0,23,148.0,24.0,Proveedor B,10,ok
+30,borne de paso gris 6 mm,Hidraulico,2025-03-12,187.0,18.0,23,182.0,33.0,Proveedor A,3437,ok
+31,"TORNILLOS AUTOPERFORANTE DE 1/2""",Herramientas,2025-01-22,180.0,22.0,8,194.0,31.0,Proveedor B,9,ok
+32,"PRENSACABLE NYLON ROSCA ELECT. 1""",Mecanica,2025-01-13,131.0,22.0,0,153.0,24.0,Proveedor A,8,ok
+33,Micrometro 25-50mm/0-25mm,Herramientas,2025-02-13,91.0,11.0,15,87.0,38.0,Proveedor C,10,ok
+34,cable de 1 x 1 mm ROJO,Herramientas,2025-06-03,136.0,19.0,18,137.0,37.0,Proveedor A,3,ok
+35,cable envainado 2 x 1 mm,Herramientas,2025-05-13,132.0,3.0,21,114.0,14.0,Proveedor B,9,ok
+36,bronce red 50x120mm,Mecanica,2025-05-22,94.0,20.0,4,110.0,32.0,Proveedor A,13,ok
+37,TUERCA MET 10X1.50 304,Hidraulico,2025-04-08,123.0,25.0,15,133.0,28.0,Proveedor A,9,ok
+38,"CABLE ULTRAFLEXIBLE 4 X 0,34 MM",Herramientas,2025-05-01,81.0,13.0,39,55.0,11.0,Proveedor A,2,ok
+39,ultra slim clamp,Hidraulico,2025-06-22,196.0,21.0,27,190.0,17.0,Proveedor A,4,ok
+40,arandela m10,Herramientas,2025-02-19,70.0,1.0,32,39.0,43.0,Proveedor C,6,critico
+41,CHAPA LAC HH 1.60X1220X2440(16),Mecanica,2025-03-27,182.0,22.0,4,200.0,21.0,Proveedor B,3,ok
+42,CONECTORES PVC DIAM. 20,Herramientas,2025-04-10,77.0,16.0,11,82.0,44.0,Proveedor B,5,ok
+43,tornillo allen m12x100,Electrico,2025-01-20,156.0,6.0,21,141.0,13.0,Proveedor A,10,ok
+44,mordaza en cruz d 10 c/perilla ,Electrico,2025-04-18,132.0,19.0,12,139.0,19.0,Proveedor A,1,ok
+45,barra diam 40 x 1mtr,Herramientas,2025-06-24,169.0,0.0,15,154.0,32.0,Proveedor B,8,ok
+46,tuerca m16 autofre ,Herramientas,2025-05-06,67.0,19.0,9,77.0,17.0,Proveedor C,2,ok
+47,angulo 40 x40x6 ,Herramientas,2025-06-12,186.0,26.0,9,203.0,48.0,Proveedor B,7,ok
+48,ULTRA SLIM P/RHF41F CLAMP,Mecanica,2025-06-29,40.0,12.0,18,34.0,33.0,Proveedor A,7,bajo
+49,"Reductor de velocidad 50 1 7,5",Herramientas,2025-06-12,174.0,10.0,26,158.0,46.0,Proveedor A,8,ok
+50,soporte shf20 ,Mecanica,2025-05-07,171.0,15.0,33,153.0,36.0,Proveedor A,4,ok
+51,"TUERCA EXAGONAL DORADA MA 4X0,70 MCN",Mecanica,2025-04-06,28.0,21.0,30,19.0,11.0,Proveedor C,13,ok
+52,Reparacion banda PU,Hidraulico,2025-06-03,42.0,20.0,12,50.0,41.0,Proveedor A,6,bajo
+53,SKT TORN ALLEN C/CIL. 12.9 M10X12,Electrico,2025-03-20,39.0,13.0,11,41.0,14.0,Proveedor C,13,ok
+54,cintas envalar ,Mecanica,2025-05-31,182.0,13.0,33,162.0,46.0,Proveedor A,2,ok
+55,INTERRUPTOR TERMOMAGNETICO TRIPOLAR C15,Hidraulico,2025-01-06,156.0,18.0,19,155.0,32.0,Proveedor C,1,ok
+56,piloto ojode buey rojo ,Herramientas,2025-03-15,135.0,19.0,27,127.0,42.0,Proveedor C,1,ok
+57,MACIZO REDONDO DIAM.16 - BARRA RECTIFICADA,Mecanica,2025-06-09,129.0,14.0,30,113.0,30.0,Proveedor C,1,ok
+58,BOQUILLA 220671 45A,Herramientas,2025-06-28,85.0,10.0,21,74.0,24.0,Proveedor A,3,ok
+59,C-SKT TORN ALLEN C/FRE C M6X12 1.00,Herramientas,2025-01-26,178.0,16.0,32,162.0,24.0,Proveedor A,2,ok
+60,extremo borneras ,Electrico,2025-05-13,74.0,17.0,19,72.0,25.0,Proveedor B,1,ok
+61,SILENCIADOR 1/8 A*,Hidraulico,2025-02-16,138.0,26.0,23,141.0,12.0,Proveedor B,12,ok
+62,BULON C/EXAGONAL MET 10X20 304,Electrico,2025-05-05,85.0,17.0,37,65.0,41.0,Proveedor B,12,ok
+63,Bulon exag 10x30,Mecanica,2025-05-18,167.0,4.0,11,160.0,45.0,Proveedor B,4,ok
+64,RESISTENCIA CHIP SMD 1206 2K7,Mecanica,2025-02-24,32.0,4.0,33,3.0,21.0,Proveedor B,10,critico
+65,BULON C/HEXAGONAL MET 10X70 304,Electrico,2025-05-22,95.0,18.0,7,106.0,48.0,Proveedor B,2,ok
+66,"BANDA BIMETALICA 2370X20X0,9MM*= 5-8 (M42)",Herramientas,2025-04-17,110.0,14.0,21,103.0,18.0,Proveedor C,3,ok
+67,TOMACORRIENTES ENCAPSULADO 220V,Mecanica,2025-06-10,161.0,9.0,31,139.0,28.0,Proveedor B,2,ok
+68,PULSADOR METALICO RASANTE IP65 NEGRO NO,Mecanica,2025-01-17,41.0,29.0,35,35.0,39.0,Proveedor A,8,critico
+69,BULON CAB.EXAG 10X16,Electrico,2025-04-13,60.0,22.0,6,76.0,31.0,Proveedor B,1,ok
+70,tornillo allen m8x16,Hidraulico,2025-06-29,151.0,13.0,28,136.0,27.0,Proveedor B,5,ok
+71,"PRENSACABLE NYLON ROSCA ELECT. 1 1/4""",Mecanica,2025-05-30,37.0,5.0,10,32.0,13.0,Proveedor B,10,ok
+72,borne de paso negro 2.5 mm,Mecanica,2025-03-04,83.0,16.0,12,87.0,14.0,Proveedor B,6,ok
+73,arandela m6,Electrico,2025-04-26,162.0,34.0,30,166.0,23.0,Proveedor A,4,ok
+74,RECTO 6-G1/8 A*,Mecanica,2025-06-24,135.0,21.0,20,136.0,23.0,Proveedor A,7,ok
+75,BULON CAB.EXAG 8X25,Hidraulico,2025-06-30,32.0,14.0,17,29.0,45.0,Proveedor B,3,critico
+76,borne puesta tierra 4mm,Electrico,2025-04-03,105.0,19.0,26,98.0,21.0,Proveedor A,2,ok
+77,SKT TORN ALLEN C/CIL. 12.9 M8X25,Herramientas,2025-02-15,142.0,18.0,24,136.0,32.0,Proveedor B,13,ok
+78,"Malla negra 25-25-2,6 (1,2x3m)",Electrico,2025-06-17,186.0,18.0,4,200.0,33.0,Proveedor B,12,ok
+79,caño aluminio ,Herramientas,2025-06-06,160.0,7.0,8,159.0,25.0,Proveedor C,13,ok
+80,ELECTRODO 220669 45A,Hidraulico,2025-03-14,46.0,0.0,23,23.0,49.0,Proveedor B,13,critico
+81,Espiga de 10mm p/niple roscado de chopera,Electrico,2025-05-04,157.0,17.0,17,157.0,25.0,Proveedor A,11,ok
+82,REDUCTOR DE VELOCIDAD NMRV40-71B14 REL 1:10,Mecanica,2025-06-14,119.0,15.0,23,111.0,37.0,Proveedor C,5,ok
+83,caños 100x100x 2mm,Herramientas,2025-01-09,95.0,9.0,20,84.0,20.0,Proveedor C,9,ok
+84,borne de paso ,Electrico,2025-06-28,116.0,9.0,8,117.0,38.0,Proveedor B,1,ok
+85,ULTRA SLIM P/RHF41F CLAMP,Electrico,2025-05-04,70.0,20.0,11,79.0,17.0,Proveedor C,13,ok
+86,papel higienico c /gramde,Mecanica,2025-01-30,184.0,7.0,22,169.0,17.0,Proveedor A,11,ok
+87,ALLEN C/BOTON MET. 5X25 304,Electrico,2025-02-01,178.0,18.0,42,154.0,15.0,Proveedor C,2,ok
+88,"Tuerca met 8*1,25",Herramientas,2025-06-20,141.0,21.0,23,139.0,15.0,Proveedor C,11,ok
+89,Pulsador de emergencia NC,Mecanica,2025-04-20,176.0,17.0,13,180.0,49.0,Proveedor A,3,ok
+90,arandela plana m10,Mecanica,2025-04-27,56.0,3.0,22,37.0,44.0,Proveedor B,13,critico
+91,"PULSADOR DE EMERGENCIA SB,BC42D NC C/RETORNO",Mecanica,2025-01-07,176.0,16.0,31,161.0,38.0,Proveedor B,14,ok
+92,llave interruptor tripolar ,Hidraulico,2025-01-08,79.0,15.0,36,58.0,42.0,Proveedor C,7,bajo
+93,ARANDELA PLANA MET 5 304,Hidraulico,2025-03-21,110.0,12.0,27,95.0,43.0,Proveedor B,14,ok
+94,brida basculante macho y hembra d50 ,Herramientas,2025-06-12,171.0,21.0,21,171.0,31.0,Proveedor B,11,ok
+95,Inserto TPKR 1603 PP R-WH 4240,Electrico,2025-01-05,81.0,19.0,19,81.0,33.0,Proveedor C,2,ok
+96,reparacion de banda pu,Mecanica,2025-04-13,51.0,9.0,32,28.0,24.0,Proveedor C,3,bajo
+97,CHAPA LAC HH 1.60X1220X2440(16),Herramientas,2025-04-12,77.0,7.0,19,65.0,39.0,Proveedor A,1,ok
+98,conector interfase c,Electrico,2025-04-04,52.0,5.0,39,18.0,11.0,Proveedor A,12,ok
+99,"cable unitronic 1x2x0,25",Electrico,2025-06-22,130.0,21.0,18,133.0,19.0,Proveedor C,8,ok
+100,"SERVO DRIVER A5, 400W",Hidraulico,2025-02-08,53.0,7.0,28,32.0,17.0,Proveedor C,2,ok
+101,cadena curva tab,Mecanica,2025-06-13,183.0,12.0,10,185.0,24.0,Proveedor B,2,ok
+102,ESTACION DE SOLDADO YIHUA 8786D,Electrico,2025-01-18,131.0,33.0,22,142.0,24.0,Proveedor C,8,ok
+103,"LIMA ROT. P821 9,6 X 6",Mecanica,2025-05-16,162.0,20.0,9,173.0,35.0,Proveedor B,6,ok
+104,"Borne BPN-2,5 p/cab.flex/rig.2,5mm POLIAMIDA",Herramientas,2025-05-08,197.0,28.0,19,206.0,20.0,Proveedor B,4,ok
+105,ELECTRODO 220669 45A,Mecanica,2025-02-16,93.0,10.0,9,94.0,23.0,Proveedor A,10,ok
+106,PIÑON Z10 DIAM.25 S/CHAV.880,Electrico,2025-06-16,70.0,17.0,36,51.0,16.0,Proveedor A,2,ok
+107,"TUERCA P/CONECT. 1/2"" ZOLODA",Electrico,2025-02-03,86.0,9.0,21,74.0,31.0,Proveedor C,5,ok
+108,PAPEL HIGUIENICO Q C/GDE X 8 U,Herramientas,2025-02-05,111.0,26.0,5,132.0,10.0,Proveedor A,6,ok
+109,CURVAS PVC DIAM. 20,Herramientas,2025-04-11,187.0,17.0,17,187.0,43.0,Proveedor C,7,ok
+110,fuente switrching metal 24 v,Herramientas,2025-03-26,22.0,5.0,14,13.0,13.0,Proveedor B,5,critico
+111,patin scs 12luu,Mecanica,2025-04-14,25.0,22.0,3,44.0,21.0,Proveedor B,6,ok
+112,REGULADOR DE CAUDAL 6-G1/8 A,Electrico,2025-03-13,22.0,14.0,21,15.0,43.0,Proveedor C,11,critico
+113,allen m5x10,Mecanica,2025-02-15,23.0,1.0,17,7.0,18.0,Proveedor A,11,critico
+114,tuerca exag m5,Mecanica,2025-04-26,48.0,10.0,19,39.0,14.0,Proveedor C,4,ok
+115,chapa sae 1010,Mecanica,2025-06-28,81.0,16.0,22,75.0,19.0,Proveedor A,11,ok
+116,INOX CON PLIEGUE,Mecanica,2025-03-05,117.0,30.0,11,136.0,27.0,Proveedor A,13,ok
+117,separadores mecanizados,Mecanica,2025-01-13,105.0,22.0,28,99.0,20.0,Proveedor A,5,ok
+118,TUERCA 5/8 304,Electrico,2025-05-18,61.0,13.0,27,47.0,17.0,Proveedor C,13,ok
+119,"Tuerca met 12*1,75",Hidraulico,2025-05-01,86.0,19.0,23,82.0,18.0,Proveedor A,12,ok
+120,Borne BPN-04 p/cab.flex./rig. 4mm poliamida,Herramientas,2025-05-16,113.0,10.0,27,96.0,40.0,Proveedor B,9,ok
+121,ALLEN C/CILINDRIC. MET 8X20 304,Hidraulico,2025-03-23,122.0,0.0,0,122.0,11.0,Proveedor B,2,ok
+122,malla galvanizada ,Mecanica,2025-05-11,30.0,17.0,0,-381.0,37.0,Proveedor B,14,bajo
+123,"CABLE ULTRAFLEXIBLE 4 X 0,34 MM",Hidraulico,2025-06-11,95.0,10.0,26,79.0,28.0,Proveedor B,14,ok
+124,termica tripolar ,Mecanica,2025-06-30,142.0,14.0,10,146.0,49.0,Proveedor C,3,ok
+125,bronce red 50x120mm,Herramientas,2025-04-22,43.0,12.0,14,41.0,39.0,Proveedor A,1,bajo
+126,"CHAPA 304 1,5X1500X3000 PVC",Mecanica,2025-03-07,119.0,31.0,30,120.0,45.0,Proveedor C,3,ok
+127,ESMALTE SINTETICO 3 EN 1 - PLATA - AEROSOL,Electrico,2025-02-01,44.0,28.0,15,57.0,45.0,Proveedor A,12,bajo
+128,VALVULA PARA BARRIL CERVECERO MOD.1023701,Electrico,2025-01-22,81.0,13.0,30,64.0,10.0,Proveedor A,11,ok
+129,arandela PL 9/16,Herramientas,2025-03-15,186.0,0.0,17,169.0,39.0,Proveedor A,10,ok
+130,interruptor intermgnetico  tripolar ,Hidraulico,2025-03-15,102.0,9.0,26,85.0,34.0,Proveedor B,14,ok
+131,termocontraible 3.2 x 10 mtr,Mecanica,2025-01-02,142.0,20.0,24,138.0,33.0,Proveedor C,1,ok
+132,CAÑO ALUMINIO 40X40X3,Hidraulico,2025-01-17,51.0,6.0,14,43.0,47.0,Proveedor A,12,critico
+133,Disco flap ceramico G60,Electrico,2025-02-04,182.0,10.0,26,166.0,27.0,Proveedor B,8,ok
+134,PULSADOR METALICO RASANTE IP65 VERDE NO,Herramientas,2025-05-09,152.0,7.0,26,133.0,27.0,Proveedor C,7,ok
+135,blister x 5 electrodos,Hidraulico,2025-02-03,158.0,20.0,17,161.0,47.0,Proveedor A,12,ok
+136,bulon allen 10x19x25,Herramientas,2025-04-22,138.0,4.0,32,110.0,40.0,Proveedor A,5,ok
+137,FUENTE SWITCHING 24V-3A,Mecanica,2025-05-22,130.0,24.0,20,134.0,39.0,Proveedor C,13,ok
+138,TUERCA MET 3X050 304,Electrico,2025-03-02,51.0,25.0,27,49.0,47.0,Proveedor B,4,bajo
+139,EXTREMO EKN1 P/BORNE,Hidraulico,2025-03-14,125.0,20.0,36,109.0,17.0,Proveedor A,13,ok
+140,allen m8x45,Mecanica,2025-04-23,182.0,0.0,7,175.0,26.0,Proveedor C,8,ok
+141,"LIMA ROT. P821 9,6 X 6",Mecanica,2025-03-01,154.0,8.0,32,130.0,44.0,Proveedor A,12,ok
+142,Gusamillo allen Met 6*10 304,Hidraulico,2025-06-02,70.0,9.0,30,49.0,35.0,Proveedor B,6,bajo
+143,"Elect,Tungsteno-diametroA/Dorado",Herramientas,2025-05-20,47.0,25.0,22,50.0,11.0,Proveedor C,6,ok
+144,maziso diam 25 ,Electrico,2025-04-01,123.0,0.0,20,103.0,35.0,Proveedor C,5,ok
+145,motor 1hp,Herramientas,2025-01-27,168.0,26.0,16,178.0,39.0,Proveedor C,14,ok
+146,Tuerca autofrenante metrica 12 304,Hidraulico,2025-05-30,178.0,9.0,18,169.0,45.0,Proveedor C,10,ok
+147,REG. DE CAUDAL EN LINEA D6,Herramientas,2025-04-09,50.0,24.0,19,55.0,37.0,Proveedor C,11,bajo
+148,BOBINA QUEEN DOBLE HOJA 25 X 2 U,Hidraulico,2025-06-15,,14.0,8,125.0,33.0,Proveedor A,1,ok
+149,"RACOR CODO 1/4""-6",Hidraulico,2025-06-16,195.0,0.0,2,193.0,35.0,Proveedor C,7,ok
+150,silenciadores 1/4 ,Electrico,2025-01-13,91.0,21.0,18,94.0,11.0,Proveedor C,5,ok
+151,CILINDRO NEUMATICO ISO 15552 DIAM 32 X 25 MM AMORT. MAG.T,Mecanica,2025-03-13,137.0,12.0,15,134.0,21.0,Proveedor C,10,ok
+152,union doble clamp ,Herramientas,2025-01-24,69.0,5.0,13,61.0,25.0,Proveedor B,4,ok
+153,SKT TORN ALLEN C/CIL. 12.9 M12X100,Hidraulico,2025-02-04,34.0,12.0,16,30.0,34.0,Proveedor C,6,critico
+154,"TAPA PARA BORNE BPN-2,5-04/06/",Hidraulico,2025-02-16,135.0,11.0,24,122.0,30.0,Proveedor A,12,ok
+155,motor reductor 4 hp ,Hidraulico,2025-01-10,90.0,19.0,6,103.0,20.0,Proveedor A,8,ok
+156,CINTA AISLAD. PVC 165 19mmX20M,Herramientas,2025-02-11,191.0,6.0,17,180.0,32.0,Proveedor C,5,ok
+157,SKT TORN ALLEN C/CIL. 12.9 M5X20,Electrico,2025-03-21,81.0,0.0,6,75.0,27.0,Proveedor A,12,ok
+158,cable 2x1x 100 mtr ,Herramientas,2025-06-29,181.0,23.0,13,191.0,39.0,Proveedor C,4,ok
+159,rodamiento lineal scs 2o mm,Herramientas,2025-01-26,95.0,12.0,21,86.0,42.0,Proveedor A,3,ok
+160,LECTOR TACO RGB 24V NPN,Mecanica,2025-04-22,35.0,10.0,55,-10.0,10.0,Proveedor A,14,critico
+161,BISELADA M10X19 ZINC,Mecanica,2025-02-24,45.0,11.0,6,50.0,35.0,Proveedor B,13,bajo
+162,"redondo 25,4",Mecanica,2025-01-28,150.0,27.0,22,155.0,11.0,Proveedor B,6,ok
+163,tuerca autofrenante 5/8,Categoria desconocida,2025-04-09,84.0,21.0,25,80.0,39.0,Proveedor B,13,ok
+164,PULSADOR METALICO RASANTE IP65 VERDE NO,Herramientas,2025-05-11,53.0,20.0,0,73.0,44.0,Proveedor A,13,ok
+165,Chapas Plegadas Inox. de 2500mm x 475mm,Herramientas,2025-05-31,43.0,19.0,34,28.0,34.0,Proveedor A,14,critico
+166,power cable g,Mecanica,2035-01-01,98.0,27.0,13,112.0,27.0,Proveedor B,13,ok
+167,ALLEN CAB/BOTON MET 10X20 304,Herramientas,2025-04-19,24.0,12.0,12,24.0,18.0,Proveedor B,7,bajo
+168,minicilindro de aluminio ,Herramientas,2025-05-07,60.0,0.0,31,29.0,34.0,Proveedor B,3,critico
+169,Interruptor 3 polos a levas 20 Amp,Herramientas,2025-04-30,68.0,28.0,28,68.0,11.0,Proveedor C,14,ok
+170,caño aluinio red,Herramientas,2025-06-12,199.0,16.0,25,190.0,26.0,Proveedor A,9,ok
+171,retenes 30-62-10,Hidraulico,2025-05-13,74.0,0.0,17,57.0,26.0,Proveedor C,6,ok
+172,TERMOCONTRAIBLE DE 32MM,Herramientas,2025-03-14,89.0,32.0,28,93.0,29.0,Proveedor C,3,ok
+173,Redondo traf. 304 10mm,Electrico,2025-02-18,35.0,29.0,16,48.0,47.0,Proveedor B,8,bajo
+174,tuerca m16 autofre ,Hidraulico,2025-01-22,87.0,26.0,25,88.0,15.0,Proveedor B,3,ok
+175,ESMALTE SINTETICO 3 EN 1 - NARANJA,Electrico,2025-05-15,63.0,11.0,10,64.0,34.0,Proveedor A,1,ok
+176,FICHAS SPEAKON 4PINES MACHO,Mecanica,2025-02-20,130.0,,23,120.0,16.0,Proveedor C,9,ok
+177,base para anclar diámetro 100 con rosca metálica alto 100 mm pieza 404,Herramientas,2025-02-26,45.0,10.0,31,24.0,49.0,Proveedor A,6,critico
+178,Varilla roscada 1/2 304,Hidraulico,2025-03-06,93.0,0.0,9,84.0,29.0,Proveedor B,12,ok
+179,ULTRA SLIM P/RHF41F CLAMP,Hidraulico,2025-05-06,25.0,25.0,7,43.0,46.0,Proveedor A,4,critico
+180,barriles de 50 litr,Herramientas,2025-06-23,75.0,4.0,30,49.0,22.0,Proveedor B,2,ok
+181,delring,Electrico,2025-05-08,178.0,12.0,25,165.0,30.0,Proveedor C,6,ok
+182,TUERCA MET 5X0.8 304,Electrico,2025-03-31,81.0,17.0,15,83.0,14.0,Proveedor C,10,ok
+183,CONECTOR CODO NEUMATICO 4 MM X M5,Electrico,2025-05-27,155.0,5.0,36,124.0,47.0,Proveedor A,4,ok
+184,mordaza en t para trafilado d10,Electrico,2025-06-24,91.0,22.0,11,102.0,40.0,Proveedor C,12,ok
+185,niple epoxi 3/4,Hidraulico,2025-01-24,99.0,5.0,0,104.0,19.0,Proveedor C,3,ok
+186,Pulsador metálico rasante p65 NCR ROJO,Electrico,2025-05-16,69.0,26.0,43,52.0,17.0,Proveedor A,12,ok
+187,gusanillo allen mm8 x15,Electrico,2025-01-04,165.0,14.0,14,165.0,36.0,Proveedor C,14,ok
+188,delring,Hidraulico,2025-03-05,182.0,29.0,33,178.0,31.0,Proveedor B,12,ok
+189,"CABLE ENV,RED.MULT. 5X6MM",Herramientas,2025-03-23,105.0,8.0,8,105.0,,Proveedor B,14,ok
+190,"BANDA BIMETALICA 2370X20X0,9MM*= 8-12 (M42)",Herramientas,2025-02-15,141.0,8.0,19,130.0,42.0,Proveedor A,13,ok
+191,Gusamillo allen Met 6*10 304,Hidraulico,2025-04-16,49.0,16.0,10,55.0,21.0,Proveedor A,11,ok
+192,DIF AJUST. 2-5CM NPN 24V,Mecanica,2025-01-09,65.0,16.0,18,63.0,23.0,Proveedor C,7,ok
+193,reten  5268,Mecanica,2025-05-27,50.0,12.0,17,45.0,25.0,Proveedor A,2,ok
+194,"TUERCA EXAGONAL DORADA MA 4X0,70 MCN",Herramientas,2025-02-25,22.0,2.0,12,12.0,16.0,Proveedor C,7,critico
+195,sensor magnetico,Mecanica,2025-03-14,80.0,24.0,20,84.0,38.0,Proveedor B,11,ok
+196,chapa negra 1200x 1000x 2mm,Hidraulico,2025-06-16,148.0,2.0,27,123.0,26.0,Proveedor C,3,ok
+197,CADENA A RODILLOS PASO 1/2BS 08B-2 X 10FT. DOBLE,Electrico,2025-05-01,77.0,18.0,6,89.0,38.0,Proveedor A,10,ok
+198,"PAPEL HIGIENICO ""Q""C/GDE X8UN.",Mecanica,2025-06-29,123.0,21.0,16,128.0,23.0,Proveedor A,10,ok
+199,BOQUILLA 220671 45A,Herramientas,2025-05-20,77.0,16.0,25,,40.0,Proveedor B,12,ok
+200,ARANDELA PLANA MET. 10 304,Hidraulico,2025-04-24,125.0,24.0,41,108.0,41.0,Proveedor C,14,ok
+201,FLEGES INOX,Hidraulico,2025-04-23,91.0,14.0,3,102.0,45.0,Proveedor B,11,ok
+202,TUERCA MET 5X0.8 304,Herramientas,2025-06-06,153.0,24.0,0,177.0,19.0,Proveedor A,14,ok
+203,engranaje punta cigueñal zanell  ztt 200,Herramientas,2025-03-01,126.0,10.0,21,115.0,17.0,Proveedor A,14,ok
+204,incerto w 080408,Mecanica,2025-06-03,148.0,10.0,0,158.0,42.0,Proveedor A,14,ok
+205,patin hgh 35,Herramientas,2025-04-01,128.0,16.0,23,121.0,39.0,Proveedor C,3,ok
+206,terminal ojal y orquila rojo,Mecanica,2025-02-25,187.0,25.0,27,185.0,42.0,Proveedor A,9,ok
+207,banda sin fin 550x5490,Herramientas,2025-02-06,113.0,11.0,32,92.0,48.0,Proveedor A,3,ok
+208,VARILLA ROSCADA HO ZIB/AZUL10X1.5,Electrico,2025-03-29,109.0,10.0,33,86.0,15.0,Proveedor A,6,ok
+209,medio eslabon ,Herramientas,2025-02-05,162.0,21.0,22,161.0,27.0,Proveedor C,10,ok
+210,PLIEGUE EN U INOX.,Hidraulico,2025-05-16,87.0,3.0,17,73.0,34.0,Proveedor A,3,ok
+211,"BRONCE SAE68 RED. 500,00 X 120MM",Hidraulico,2025-04-29,36.0,12.0,19,29.0,43.0,Proveedor A,12,critico
+212,bobina mas tornillo 24 vcc,Electrico,2025-05-12,83.0,12.0,22,73.0,21.0,Proveedor B,14,ok
+213,5v electrovalvulas 5/2 monoestable 1//8 bsp,Herramientas,2025-06-14,44.0,18.0,9,53.0,14.0,Proveedor A,13,ok
+214,BASCULANTE DIAM. 50 HEMBRA,Hidraulico,2025-01-16,90.0,24.0,16,98.0,29.0,Proveedor B,9,ok
+215,Borne de puesta a tierra p/conduct. 4mm,Hidraulico,2025-01-10,131.0,18.0,25,124.0,47.0,Proveedor C,10,ok
+216,placa de delrring 508x380x20 mm,Electrico,2025-06-26,196.0,19.0,12,203.0,30.0,Proveedor B,4,ok
+217,hierro tt,Hidraulico,2025-06-24,146.0,25.0,6,165.0,2883.0,Proveedor A,7,ok
+218,"RACOR RECTO 1/8""-4",Mecanica,2025-02-25,77.0,25.0,14,88.0,36.0,Proveedor A,2,ok
+219,Agarre de eje d12,Electrico,2025-03-02,160.0,21.0,2,179.0,49.0,Proveedor B,13,ok
+220,Gusanillo allen met. 8x16 304,Categoria desconocida,2025-01-10,144.0,14.0,10,148.0,48.0,Proveedor A,7,ok
+221,blister x 5 electrodos,Herramientas,2025-05-21,143.0,7.0,16,134.0,10.0,Proveedor C,3,ok
+222,Perilla ⌀50 V2 +camio,Electrico,2025-04-27,192.0,24.0,28,188.0,20.0,Proveedor B,9,ok
+223,tuerca aut m14,Hidraulico,2025-01-01,81.0,9.0,15,75.0,34.0,Proveedor B,14,ok
+224,TUERCA 5/8 304,Herramientas,2025-05-02,51.0,10.0,24,37.0,45.0,Proveedor B,10,critico
+225,tuerca exag m6,Electrico,2025-03-26,192.0,5.0,17,180.0,12.0,Proveedor A,3,ok
+226,tuerca aut m14,Mecanica,2025-05-15,100.0,2.0,17,85.0,43.0,Proveedor B,13,ok
+227,CURVAS PVC DIAM. 20,Mecanica,2025-03-13,137.0,4.0,17,124.0,44.0,Proveedor A,7,ok
+228,"CABLE ULTRAFLEXIBLE 4 X 0,34 MM",Herramientas,2025-01-19,26.0,11.0,0,37.0,32.0,Proveedor A,10,bajo
+229,SKT TORN ALLEN C/CIL. 12.9 M5X10,Herramientas,2025-02-08,185.0,13.0,5,193.0,22.0,Proveedor A,14,ok
+230,allen c cilindro m 8,Mecanica,2025-02-03,157.0,6.0,5,158.0,49.0,Proveedor B,5,ok
+231,rodamientos 6900,Hidraulico,2025-06-23,156.0,8.0,13,151.0,28.0,Proveedor C,1,ok
+232,"puntera preaislada 0,75",Mecanica,2025-06-06,130.0,13.0,30,113.0,29.0,Proveedor A,5,ok
+233,chaveta r diam 2 ,Herramientas,2025-05-11,20.0,2.0,17,5.0,15.0,Proveedor C,9,critico
+234,brida comun,Hidraulico,2025-03-13,142.0,22.0,12,152.0,24.0,Proveedor A,6,ok
+235,"CABLE UNITONIC FD CY 4X0,34mm",Herramientas,2025-03-15,198.0,19.0,20,197.0,46.0,Proveedor A,10,ok
+236,TAPON 1/4 P/ALLEM A,Herramientas,2025-06-10,162.0,32.0,21,173.0,35.0,Proveedor B,7,ok
+237,brida motor ,Electrico,2025-03-17,120.0,13.0,0,133.0,38.0,Proveedor B,1,ok
+238,CABLE CANAL PERFORADO 60 X 60 GRIS XNT,Hidraulico,2025-04-21,197.0,15.0,16,196.0,13.0,Proveedor C,8,ok
+239,"FILTRO REGULADOR DE PRESION CON MANOMETRO Y TRAMPA DE AGUA NEUMATICO 1/2 "" D 18,45 MM",Herramientas,2025-01-28,97.0,11.0,15,93.0,10.0,Proveedor A,3,ok
+240,MECHA CENTRO A200 DIAM.3.15X8.0MM-DIN 333A,Herramientas,2025-02-24,25.0,23.0,19,29.0,44.0,Proveedor B,7,critico
+241,arandela plana 5/8,Herramientas,2025-06-16,104.0,23.0,28,99.0,36.0,Proveedor C,9,ok
+242,DRIVER MOSFET,Hidraulico,2025-02-05,193.0,16.0,2,207.0,19.0,Proveedor B,2,ok
+243,Barra de resina acetalica diam. 55 x 300mm,Hidraulico,2025-03-07,166.0,21.0,11,176.0,14.0,Proveedor A,6,ok
+244,gabinete  ext ,Herramientas,2025-05-08,182.0,11.0,10,183.0,23.0,Proveedor B,2,ok
+245,"TERMINALES DE CONEXION RAPIDA EMPALME DERIVACION 2 ENTRADAS /2 SALIDAS HASTA 2,5 MM",Electrico,2025-03-30,190.0,15.0,10,195.0,47.0,Proveedor A,4,error
+246,ARANDELA PLANA MET 6 304,Herramientas,2025-05-21,22.0,27.0,21,28.0,28.0,Proveedor C,7,critico
+247,strech virgen  negro ,Electrico,2025-01-25,53.0,25.0,4,74.0,19.0,Proveedor A,2,ok
+248,PILOTO OJO DE BUEY ROJO 220V-20MA,Mecanica,2025-04-04,151.0,14.0,17,148.0,48.0,Proveedor B,5,ok
+249,"SERVO DRIVER A5, 400W",Herramientas,2025-03-04,61.0,12.0,15,58.0,28.0,Proveedor A,11,ok
+250,placa de delrring 508x380x20 mm,Herramientas,2025-01-26,31.0,0.0,23,8.0,20.0,Proveedor C,14,critico
+251,tuerca 5/8 ,Electrico,2025-05-15,59.0,34.0,18,75.0,35.0,Proveedor B,13,ok
+252,PUENTE FIJO 10 ELEMENTOS P BPN 4,Mecanica,2025-01-07,21.0,25.0,16,30.0,13.0,Proveedor B,14,ok
+253,"JGO 3 MACHO DORMER E559 M8 X 1,25 J3 CANAL RECTO",Herramientas,2025-06-18,63.0,0.0,6,57.0,19.0,Proveedor B,4,ok
+254,"TUERCA EXAGONAL DORADA MA 6X1,00",Electrico,2025-06-21,34.0,9.0,6,37.0,25.0,Proveedor B,12,bajo
+255,roamientos 6000,Hidraulico,2025-06-18,104.0,21.0,29,96.0,18.0,Proveedor A,8,ok
+256,"cinta termocntraible 9x1,5",Hidraulico,2025-05-21,135.0,21.0,18,138.0,41.0,Proveedor A,1,ok
+257,Inserto wnmg 080408-mm 2025,Hidraulico,2025-03-04,94.0,34.0,20,108.0,21.0,Proveedor A,8,ok
+258,cable blindado ,Electrico,2025-02-23,112.0,10.0,11,111.0,46.0,Proveedor A,2,ok
+259,base maniful 1/8,Mecanica,2025-04-14,36.0,16.0,23,29.0,26.0,Proveedor A,1,bajo
+260,maciso diam 6,Mecanica,2025-01-02,124.0,21.0,22,123.0,49.0,Proveedor A,6,ok
+261,llave paso de 1/2,Herramientas,2025-06-25,186.0,21.0,16,191.0,48.0,Proveedor B,5,ok
+262,bullon allen ,Hidraulico,2025-05-14,165.0,18.0,23,160.0,35.0,Proveedor C,5,ok
+263,"racor recto 1/8 ,4",Mecanica,2025-05-13,163.0,27.0,16,174.0,26.0,Proveedor A,12,ok
+264,AC Inverter 220V 2.2KW,Hidraulico,2025-06-21,38.0,31.0,26,43.0,29.0,Proveedor B,6,bajo
+265,TUERCA EXAG. MA6 doradas,Mecanica,2025-02-21,126.0,7.0,34,1909.0,39.0,Proveedor C,12,ok
+266,Hierros 7/8,Electrico,2025-06-06,105.0,14.0,23,96.0,35.0,Proveedor A,8,ok
+267,Chapa lac hh 2.00x1220x2440 (14),Mecanica,2025-02-13,56.0,31.0,13,74.0,37.0,Proveedor A,10,ok
+268,allen c cilindro m 8,Hidraulico,2025-05-22,71.0,7.0,20,58.0,22.0,Proveedor B,9,ok
+269,cable canal 40 x60,Hidraulico,2025-05-10,114.0,12.0,5,121.0,40.0,Proveedor A,7,ok
+270,C-SKT TORN ALLEN C/FRE C M8X25 1.25,Mecanica,2025-02-15,153.0,17.0,2,168.0,29.0,Proveedor B,7,ok
+271,"BANDA 2 TELAS REVES PU AZUL ESP 1,5mm ANTIESTATIC ANCHO 550mm DESARROLLO 7680mm UNION SIN FIN CON GUIA INFERIOR CENTRADA K10X6",Herramientas,2025-01-17,38.0,10.0,28,20.0,27.0,Proveedor C,13,critico
+272,union doble clamp ,Herramientas,2025-01-18,170.0,17.0,32,155.0,22.0,Proveedor A,1,ok
+273,Mordaza en T ⌀10,Mecanica,2025-06-18,186.0,17.0,23,180.0,18.0,Proveedor C,12,ok
+274,termica sd 61 ,Hidraulico,2025-01-26,120.0,14.0,31,103.0,23.0,Proveedor A,2,ok
+275,discos corte de 110 x 1mm,Herramientas,2025-05-15,164.0,21.0,6,179.0,23.0,Proveedor B,12,ok
+276,barra recina acetal 20x1000,Hidraulico,2025-06-16,104.0,9.0,24,89.0,15.0,Proveedor C,5,ok
+277,SENSORES DE RANURA SME-8M-24V,Hidraulico,2025-06-06,58.0,21.0,30,49.0,35.0,Proveedor A,13,bajo
+278,uct 206 rec acetal x30mm,Mecanica,2025-01-07,38.0,2.0,10,30.0,11.0,Proveedor C,6,ok
+279,CONECTOR INTERFASE,Electrico,2025-06-11,88.0,26.0,24,90.0,48.0,Proveedor B,10,ok
+280,rodamiento lineal scs16 luu,Mecanica,2025-02-18,94.0,8.0,26,76.0,44.0,Proveedor C,2,ok
+281,"Reductor de velocidad 75 1 7,5",Mecanica,2025-02-08,68.0,23.0,41,50.0,33.0,Proveedor A,3,ok
+282,ALLEN C/CILINDRIC. MET 8X30 304,Herramientas,2025-05-17,130.0,19.0,9,140.0,12.0,Proveedor C,10,ok
+283,f sm a5 400w,Herramientas,2025-06-15,132.0,34.0,19,147.0,33.0,Proveedor B,10,ok
+284,Barra de aluminio 2011 red de 31.75mm,Mecanica,2025-04-21,162.0,7.0,19,150.0,45.0,Proveedor A,11,ok
+285,"CHAPA BASE (CHUPADORES) MECANIZADA DE 395X293X3,2 MM G800-P-04-001",Hidraulico,2025-05-12,170.0,6.0,31,145.0,27.0,Proveedor C,1,ok
+286,barra delrrin diam 25x 1000,Hidraulico,2025-05-29,150.0,15.0,22,143.0,38.0,Proveedor B,7,ok
+287,recto 8 g1/4,Herramientas,2025-03-20,73.0,22.0,23,72.0,37.0,Proveedor A,14,ok
+288,macizo retificado d 12 para eje lineal ,Mecanica,2025-04-05,110.0,,39,83.0,41.0,Proveedor A,3,ok
+289,patas m16 con vastago,Electrico,2025-06-28,170.0,21.0,11,180.0,26.0,Proveedor C,2,ok
+290,CADENA A RODILLOS PASO 1/2BS 08B-2 X 10FT. DOBLE,Mecanica,2025-03-25,87.0,23.0,15,95.0,49.0,Proveedor C,6,ok
+291,Poliuretano Blanco Puro x 4L,Mecanica,2025-04-09,77.0,20.0,3,94.0,23.0,Proveedor C,4,ok
+292,chap 304 2x1000x2000,Hidraulico,2025-05-28,69.0,9.0,20,58.0,40.0,Proveedor C,8,bajo
+293,HIDRA SELLO DE ORO,Electrico,2025-06-14,107.0,13.0,15,105.0,24.0,Proveedor C,5,ok
+294,limpiamanos industrial ,Mecanica,2025-01-28,154.0,9.0,27,136.0,26.0,Proveedor A,5,ok
+295,Int. Termomagnetico de 5amp,Mecanica,2025-05-02,58.0,11.0,10,59.0,49.0,Proveedor C,6,bajo
+296,RESISTENCIA CHIP SMD 1206 2K7,Mecanica,2025-04-24,134.0,12.0,23,123.0,49.0,Proveedor B,3,ok
+297,punteras PIN 10 mm,Herramientas,2025-05-01,167.0,14.0,28,153.0,16.0,Proveedor C,5,ok
+298,cable unipolar 1x0.75,Mecanica,2025-02-01,194.0,6.0,19,181.0,43.0,Proveedor A,5,ok
+299,"CAÑO EPOXI 3/4"" X 6,40MTS",Herramientas,2025-06-22,40.0,8.0,28,20.0,49.0,Proveedor B,13,critico
+300,Inserto cnmg 120408-mm 2025,Hidraulico,2025-06-27,128.0,6.0,21,113.0,19.0,Proveedor B,8,ok
+301,extremo borneras ,Herramientas,2025-02-02,83.0,21.0,24,80.0,47.0,Proveedor B,14,ok
+302,codo p/soldar,Electrico,2025-01-07,36.0,15.0,15,36.0,15.0,Proveedor B,8,ok
+303,triceta ,Electrico,2025-04-13,142.0,8.0,9,141.0,25.0,Proveedor A,10,ok
+304,piston con freno d32 carr 50mm,Mecanica,2025-05-01,161.0,17.0,3,175.0,45.0,Proveedor A,4,ok
+305,tapa de borne ,Mecanica,2025-03-07,31.0,9.0,27,13.0,44.0,Proveedor A,9,critico
+306,borne de paso rojo 2.5 mm,Hidraulico,2025-04-30,126.0,27.0,16,137.0,15.0,Proveedor A,13,ok
+307,cable ubipolar ,Herramientas,2025-06-19,33.0,15.0,8,40.0,20.0,Proveedor B,4,ok
+308,MALLA GALVANIZADA 25X25X2.6 (1.2X3),Hidraulico,2025-05-22,64.0,29.0,26,67.0,44.0,Proveedor A,6,ok
+309,conjunto piezas ,Mecanica,2025-01-11,147.0,11.0,25,133.0,30.0,Proveedor C,13,ok
+310,chapa sae 1010,Herramientas,2025-04-05,121.0,27.0,21,127.0,49.0,Proveedor B,1,ok
+311,Pulsador metálico rasante p65 NCR ROJO,Hidraulico,2025-03-21,73.0,17.0,15,75.0,44.0,Proveedor B,10,ok
+312,"CABLE ENV.RED. 4X1,5mm",Hidraulico,2025-06-23,,0.0,29,29.0,43.0,Proveedor C,4,critico
+313,piloto luminoso sonoro rojo ,Mecanica,2025-04-17,86.0,13.0,10,89.0,,Proveedor B,5,ok
+314,dif ajuste 2.5,Hidraulico,2025-04-24,35.0,15.0,20,30.0,39.0,Proveedor B,6,critico
+315,PLACA ALUMINIO 5083 25 X 95 X 120 MM,Mecanica,2025-01-15,165.0,14.0,4,175.0,44.0,Proveedor B,10,ok
+316,uct 206 rec acetal x30mm,Herramientas,2025-02-26,155.0,2.0,31,126.0,31.0,Proveedor B,10,ok
+317,SILENCIADOR 1/8 A*,Electrico,2025-02-10,58.0,4711.0,21,59.0,26.0,Proveedor C,5,ok
+318,BISELADA M6X13.8 ZINC,Herramientas,2025-03-10,191.0,21.0,6,206.0,41.0,Proveedor B,12,ok
+319,borne de paso rojo 2.5 mm,Electrico,2025-01-22,165.0,11.0,27,149.0,33.0,Proveedor C,3,ok
+320,SKT TORN ALLEN C/CIL. 12.9 M12X25,Electrico,2025-05-18,162.0,4.0,29,137.0,38.0,Proveedor C,1,ok
+321,barra diam 40 x 1mtr,Hidraulico,2025-04-23,48.0,17.0,14,51.0,20.0,Proveedor B,11,ok
+322,Conector interfaceLC10P-0041-3M,Electrico,2025-03-10,187.0,11.0,8,190.0,13.0,Proveedor C,7,ok
+323,papel higienico c /gramde,Herramientas,2025-06-28,137.0,19.0,25,131.0,47.0,Proveedor C,1,ok
+324,bulones allen m6x35,Mecanica,2025-05-16,166.0,8.0,1,173.0,28.0,Proveedor A,1,ok
+325,"hierro angulo 1""x1/8",Herramientas,2025-06-06,176.0,14.0,22,168.0,39.0,Proveedor C,12,ok
+326,"cable unitronic 10 x 0,25",Mecanica,2025-02-13,46.0,23.0,22,47.0,30.0,Proveedor B,6,ok
+327,B-SKT TORN ALLEN C/CIL. M6X12 1.00,Mecanica,2025-01-07,122.0,17.0,38,101.0,31.0,Proveedor A,11,ok
+328,tornillo allen m10x20,Mecanica,2025-05-03,60.0,25.0,17,68.0,17.0,Proveedor A,8,ok
+329,conector con freno para pistones,Herramientas,2025-01-17,90.0,17.0,10,97.0,25.0,Proveedor A,7,ok
+330,"SERVO DRIVER A5, 400W",Electrico,2025-06-16,121.0,21.0,33,109.0,15.0,Proveedor A,13,ok
+331,"RACOR CODO 1/8""-6",Electrico,2025-05-08,81.0,19.0,23,77.0,45.0,Proveedor C,5,ok
+332,REDONDO TRAF 304 25.0MM,Electrico,2025-01-11,153.0,29.0,22,160.0,23.0,Proveedor C,12,ok
+333,power cable ,Herramientas,2025-05-14,79.0,0.0,12,67.0,37.0,Proveedor B,10,ok
+334,TUBO PUN-H-6X1,Herramientas,2025-04-30,130.0,13.0,25,118.0,20.0,Proveedor C,6,ok
+335,m100 5f maniful tamaño 1 para 5 valvulas ,Mecanica,2025-01-04,112.0,23.0,12,123.0,28.0,Proveedor C,11,ok
+336,minicilindro aluminio simple vastago ,Electrico,2025-02-05,97.0,24.0,26,95.0,22.0,Proveedor B,6,ok
+337,TERMICA SERIE SD6D1 16A CURVA C 3KA,Herramientas,2025-06-03,149.0,20.0,31,138.0,22.0,Proveedor B,7,ok
+338,allen m5x16,Hidraulico,2025-04-23,55.0,24.0,11,68.0,47.0,Proveedor A,12,bajo
+339,LIMA ROT. P805C 12.7 X 6,Herramientas,2035-01-01,153.0,16.0,19,150.0,46.0,Proveedor A,8,ok
+340,tuerca autofrenante m8,Mecanica,2025-03-16,27.0,14.0,38,3.0,44.0,Proveedor A,9,critico
+341,allen 16x30 ,Mecanica,2025-05-17,147.0,26.0,14,159.0,18.0,Proveedor B,1,ok
+342,piñon masa 3/8 z12 iso ,Electrico,2025-06-09,27.0,14.0,41,0.0,47.0,Proveedor B,6,critico
+343,biselada m6,Herramientas,2025-01-26,196.0,27.0,18,205.0,17.0,Proveedor B,4,ok
+344,reductor 75,Electrico,2025-04-03,70.0,17.0,7,80.0,37.0,Proveedor A,13,ok
+345,cable de programacion para pc,Mecanica,2025-04-24,192.0,29.0,0,221.0,42.0,Proveedor B,10,ok
+346,BASCULANTE DIAM. 50 MACHO,Herramientas,2025-06-23,109.0,20.0,11,118.0,46.0,Proveedor B,13,ok
+347,ESMALTE SINTETICO 3 EN 1 - NARANJA,Herramientas,2025-05-07,156.0,3.0,30,129.0,11.0,Proveedor A,2,ok
+348,mecha centro,Electrico,2025-06-28,47.0,12.0,25,34.0,41.0,Proveedor A,4,critico
+349,M18 DIFUSO ALCANCE 30CM,Herramientas,2025-04-11,85.0,14.0,9,90.0,10.0,Proveedor C,6,ok
+350,FICHAS SPEAKON 4PINES MACHO,Hidraulico,2025-04-10,153.0,14.0,21,146.0,35.0,Proveedor A,9,ok
+351,"cable unitronic 1x2x0,25",Electrico,2025-06-22,168.0,15.0,11,172.0,15.0,Proveedor B,8,ok
+352,CORTE LASER CON PLIEGUE,Hidraulico,2025-02-12,171.0,23.0,23,171.0,37.0,Proveedor A,7,ok
+353,electrodo 220669 hhiperterm,Herramientas,2025-05-28,29.0,29.0,24,34.0,20.0,Proveedor C,8,ok
+354,"CHAPA BASE (CHUPADORES) MECANIZADA DE 395X293X3,2 MM G800-P-04-001",Herramientas,2025-04-26,58.0,14.0,33,39.0,18.0,Proveedor A,2,ok
+355,chaveta r diam 2 ,Electrico,2025-04-10,94.0,0.0,9,85.0,41.0,Proveedor C,1,ok
+356,"Tuerca met 8*1,25",Hidraulico,2025-04-01,109.0,26.0,15,120.0,28.0,Proveedor A,11,ok
+357,"CAÑO EPOXI 3/4"" X 6,40MTS",Mecanica,2025-02-28,154.0,9.0,36,127.0,11.0,Proveedor A,1,ok
+358,recto 6-g 1/8,Mecanica,2025-05-15,127.0,23.0,19,131.0,11.0,Proveedor B,9,ok
+359,BORNE PORTAFUSIBLE SECC.P/FUSIBLE 5X20,Herramientas,2025-04-06,143.0,20.0,0,163.0,14.0,Proveedor A,5,ok
+360,estacion de soldaduras ,Electrico,2025-03-04,162.0,9.0,13,158.0,25.0,Proveedor A,7,ok
+361,CONECTORES PVC DIAM.25,Mecanica,2025-06-10,171.0,10.0,21,160.0,16.0,Proveedor C,5,ok
+362,"JGO 3 MACHO DORMER E559 M10 X 1,50 J3 CANAL RECTO",Electrico,2025-03-16,54.0,7.0,36,25.0,42.0,Proveedor B,1,critico
+363,BOQUILLA 220671 45A,Mecanica,2025-01-15,74.0,9.0,16,67.0,48.0,Proveedor C,10,bajo
+364,ALLEN C/BOTON MET. 5X25 304,Hidraulico,2025-06-16,178.0,17.0,34,161.0,13.0,Proveedor B,9,ok
+365,tubo 40x60x2,Herramientas,2025-03-12,33.0,6.0,38,1.0,15.0,Proveedor A,12,critico
+366,DELRIN: DIAM. 65,Hidraulico,2025-03-06,140.0,33.0,14,159.0,39.0,Proveedor A,6,ok
+367,PILOTO OJO DE BUEY VERDE 220V-20MA,Hidraulico,2035-01-01,95.0,17.0,32,80.0,47.0,Proveedor A,12,ok
+368,rodamientos ucfl 204 inox caja plast,Hidraulico,2025-05-14,160.0,16.0,6,170.0,19.0,Proveedor A,13,ok
+369,INOX CON PLIEGUE,Mecanica,2025-04-26,113.0,17.0,12,118.0,15.0,Proveedor A,4,ok
+370,bobina queen 25 d/h,Herramientas,2025-03-26,100.0,14.0,23,91.0,32.0,Proveedor B,5,ok
+371,DRIVER MOSFET,Electrico,2025-03-31,123.0,6.0,19,110.0,31.0,Proveedor B,2,ok
+372,BASE VALVULA MOD. 4V200M-ZYM-164,Electrico,2025-04-20,180.0,15.0,14,181.0,49.0,Proveedor C,4,ok
+373,ucf 205 inox x25mm,Herramientas,2025-06-07,113.0,16.0,23,106.0,34.0,Proveedor B,13,ok
+374,Barra de resina acetalica diam. 20 x 1000mm,Hidraulico,2025-05-27,80.0,11.0,21,70.0,13.0,Proveedor C,8,ok
+375,Interruptor 3 polos + neutro a levas 40 Amp,Mecanica,2025-03-20,28.0,26.0,16,38.0,24.0,Proveedor C,3,ok
+376,interface 1 inv,Hidraulico,2025-03-11,95.0,12.0,27,80.0,38.0,Proveedor B,14,ok
+377,gabinete industrial 250x240x150,Herramientas,2025-03-06,119.0,8.0,9,118.0,46.0,Proveedor A,7,ok
+378,RODAMIENTOS LINEALES SCS16LUU,Herramientas,2025-06-13,182.0,11.0,6,187.0,21.0,Proveedor C,9,ok
+379,"RACOR CODO 1/8""-4",Hidraulico,2025-05-20,181.0,6.0,26,161.0,21.0,Proveedor C,6,ok
+380,BORNE DE PASO P/CONDUCTOR DE 6MM BPN,Hidraulico,2025-05-07,64.0,11.0,19,56.0,36.0,Proveedor C,11,ok
+381,"CABLE 110 4G1,5",Herramientas,2025-02-24,99.0,18.0,28,89.0,18.0,Proveedor B,11,ok
+382,"TUERCA EXAGONAL DORADA MA 6X1,00",Herramientas,2025-04-27,32.0,32.0,32,32.0,15.0,Proveedor B,4,ok
+383,SKT TORN ALLEN C/CIL. 12.9 M4X20,Mecanica,2025-05-30,167.0,18.0,14,171.0,14.0,Proveedor A,10,ok
+384,chap 304 2x1000x2000,Hidraulico,2025-03-30,153.0,8.0,19,142.0,32.0,Proveedor B,11,ok
+385,NOZZLE MAGNA 20.8,Hidraulico,2025-03-22,138.0,27.0,19,146.0,46.0,Proveedor B,7,ok
+386,DELRIN: DIAM. 65,Hidraulico,2025-03-26,168.0,22.0,32,158.0,-334.0,Proveedor A,11,ok
+387,correa redonda  ,Mecanica,2025-05-24,125.0,1.0,28,98.0,44.0,Proveedor B,11,ok
+388,redondo trafilado 25 mm,Herramientas,2025-04-29,68.0,26.0,19,75.0,44.0,Proveedor A,8,ok
+389,ALLEN CAB/BOTON MET 5X10 304,Hidraulico,2025-01-07,67.0,22.0,11,78.0,30.0,Proveedor B,11,ok
+390,Micrometro 25-50mm/0-25mm,Herramientas,2025-01-14,164.0,18.0,6,176.0,42.0,Proveedor B,4,ok
+391,5 angulos  1x 1/8,Electrico,2025-06-11,124.0,16.0,40,100.0,13.0,Proveedor A,10,ok
+392,arabdela m5,Electrico,2025-06-13,165.0,3.0,12,156.0,33.0,Proveedor B,1,ok
+393,cable mallado 2 x 0.25,Hidraulico,2025-02-11,58.0,16.0,3,71.0,16.0,Proveedor C,4,ok
+394,"PUENTE FIJO 10 ELEMENTOS P BPN 2,5",Herramientas,2025-04-27,129.0,4.0,7,126.0,37.0,Proveedor C,2,ok
+395,tuerca m12,Hidraulico,2025-05-10,157.0,15.0,28,144.0,34.0,Proveedor B,10,ok
+396,cable unitronic,Hidraulico,2025-03-09,80.0,11.0,27,64.0,22.0,Proveedor B,6,ok
+397,"SM A5 400W 3000RPM 1,27 NM",Herramientas,2025-06-27,76.0,9.0,22,63.0,15.0,Proveedor C,4,ok
+398,arandela m 5,Mecanica,2025-05-16,142.0,26.0,26,142.0,22.0,Proveedor C,7,ok
+399,LIMA ROT. P805C 12.7 X 6,Hidraulico,2025-03-01,75.0,28.0,13,90.0,39.0,Proveedor B,9,ok
+400,caño aluminio ,Herramientas,2025-05-17,33.0,2.0,20,15.0,23.0,Proveedor C,6,critico
+401,ENGRANAJES Y CREMALLERA P/PB25,Electrico,2025-04-09,53.0,26.0,17,62.0,49.0,Proveedor C,5,bajo
+402,mecha 10.5,Hidraulico,2025-05-19,71.0,,14,73.0,16.0,Proveedor B,10,ok
+403,MALLA GALVANIZADA 25X25X2.6 (1.2X3),Herramientas,2025-01-19,48.0,15.0,26,37.0,32.0,Proveedor A,4,bajo
+404,triceta ,Hidraulico,2025-02-10,47.0,9.0,25,31.0,30.0,Proveedor B,12,bajo
+405,banda modular ancho 766,Electrico,2025-04-25,154.0,11.0,3,162.0,35.0,Proveedor B,7,ok
+406,recto 6 -g 18 ,Mecanica,2025-05-23,97.0,22.0,0,119.0,38.0,Proveedor A,2,ok
+407,ALLEN C/CILINDRIC. MET 5X25 304,Mecanica,2025-06-30,54.0,9.0,3,60.0,23.0,Proveedor A,11,ok
+408,BULON C/HEXAGONAL MET 10X20 304,Mecanica,2025-02-20,113.0,11.0,15,109.0,26.0,Proveedor B,4,ok
+409,CHAPA 430 3.0X1250X2500 ESM,Herramientas,2025-01-02,99.0,18.0,20,97.0,49.0,Proveedor C,3,ok
+410,racor codo 1/8 4,Herramientas,2025-06-07,58.0,15.0,9,64.0,36.0,Proveedor B,10,ok
+411,Manguera para alta presion - atoxica - 10mm,Herramientas,2025-01-01,78.0,15.0,29,64.0,33.0,Proveedor A,9,error
+412,piston con freno d32 carr 50mm,Herramientas,2025-03-04,77.0,19.0,16,80.0,15.0,Proveedor B,13,ok
+413,sensor  inductivo ,Herramientas,2025-06-09,137.0,6.0,32,111.0,36.0,Proveedor C,9,ok
+414,filtro regulador aire manometro 1/2,Mecanica,2025-05-06,87.0,15.0,22,80.0,11.0,Proveedor A,9,ok
+415,desoxcidante,Herramientas,2025-06-26,37.0,15.0,12,40.0,33.0,Proveedor A,7,bajo
+416,Tuerca autofrenante metrica 8 304,Herramientas,2025-03-16,31.0,27.0,37,21.0,21.0,Proveedor A,4,critico
+417,filamento 3d printer ,Electrico,2025-01-05,107.0,25.0,51,81.0,28.0,Proveedor C,12,ok
+418,tuerca m12,Herramientas,2025-04-22,41.0,7.0,14,34.0,47.0,Proveedor C,14,critico
+419,arandela plana 9/16,Electrico,2025-04-08,117.0,5.0,14,108.0,24.0,Proveedor A,9,ok
+420,papel mano ,Herramientas,2025-02-08,160.0,7.0,18,149.0,42.0,Proveedor B,14,ok
+421,"RESORTE S11 VERDE S11,025,089",Mecanica,2025-02-17,108.0,12.0,18,102.0,15.0,Proveedor A,9,ok
+422,"SPROCKET, HS-502A/EL HS-2400B HS-500B/EL 12T-S38 DIENTE SIMPLE",Herramientas,2025-03-10,199.0,19.0,12,206.0,17.0,Proveedor A,13,ok
+423,TUERCA AUTOFRENANTE MET. 16 304,Herramientas,2025-03-11,55.0,24.0,9,70.0,48.0,Proveedor B,13,bajo
+424,"BANDA 2 TELAS REVES PU AZUL ESP 1,5mm ANSTIESTATIC ANCHO 550mm DESARROLLO 5490mm UNION SIN FIN CON GUIA INFERIOR CENTRADA K10X6",Electrico,2025-05-27,163.0,8.0,31,140.0,38.0,Proveedor A,12,ok
+425,Int. Termomagnetico de 5amp,Electrico,2025-06-03,178.0,16.0,10,184.0,39.0,Proveedor C,6,ok
+426,caño 40x40x1.6,Electrico,2025-02-04,72.0,2.0,37,37.0,12.0,Proveedor C,5,ok
+427,G1/8 5/2 sol res A*220AC,Hidraulico,2025-02-20,161.0,16.0,0,177.0,13.0,Proveedor A,7,ok
+428,piloto ojo de buey verde ,Mecanica,2025-06-14,160.0,14.0,12,162.0,32.0,Proveedor B,8,ok
+429,Reductor 63 1.75,Mecanica,2025-05-29,96.0,27.0,12,111.0,25.0,Proveedor C,5,ok
+430,TUBO FESTO PUN 6X1,Hidraulico,2025-02-08,25.0,27.0,2,50.0,11.0,Proveedor A,12,ok
+431,rele bobina 24 vdc ,Electrico,2025-04-16,91.0,16.0,7,100.0,10.0,Proveedor B,9,error
+432,RODAMIENTOS LINEALES LMK20UU,Mecanica,2025-06-20,194.0,11.0,19,186.0,15.0,Proveedor B,8,ok
+433,fichas speakon 4 pines  hembra ,Electrico,2025-06-06,148.0,18.0,37,129.0,18.0,Proveedor B,7,ok
+434,TERMINALES OJAL AZULES DE 6MM,Mecanica,2025-05-13,53.0,5.0,14,44.0,30.0,Proveedor A,6,bajo
+435,placa delrring #25,Herramientas,2025-01-02,123.0,11.0,17,117.0,26.0,Proveedor A,3,ok
+436,SKT TORN ALLEN C/CIL M6X10,Hidraulico,2025-03-10,179.0,19.0,34,164.0,17.0,Proveedor C,5,ok
+437,inserto tpkr 1603,Mecanica,2025-05-05,34.0,9.0,0,43.0,26.0,Proveedor C,3,ok
+438,"BORNE BPN 2,5 P/CAB.FLEX/RIG. 2,5mm NEGRO",Hidraulico,2025-02-05,124.0,13.0,15,122.0,33.0,Proveedor A,12,ok
+439,pistola calor 2000 w,Mecanica,2025-06-26,149.0,19.0,17,151.0,36.0,Proveedor A,7,ok
+440,PLEGADO G800-P-03-001,Mecanica,2025-03-03,156.0,16.0,31,141.0,45.0,Proveedor B,5,ok
+441,hgr 35,Electrico,2025-01-16,21.0,8.0,24,5.0,30.0,Proveedor B,11,critico
+442,pico de bronce 0.4 impres 3 D,Hidraulico,2025-05-25,135.0,13.0,20,128.0,14.0,Proveedor A,14,ok
+443,cable de programacion para pc,Herramientas,2025-04-26,172.0,1.0,20,153.0,37.0,Proveedor B,10,ok
+444,FICHAS SPEAKON 4PINES HEMBRA,Hidraulico,2025-06-04,58.0,23.0,24,57.0,49.0,Proveedor B,1,bajo
+445,"TEE EPOXI 3/4""",Hidraulico,2025-03-21,171.0,12.0,20,163.0,10.0,Proveedor A,5,ok
+446,"trafilado redondo 05,50",Herramientas,2025-05-24,65.0,14.0,27,52.0,26.0,Proveedor B,3,ok
+447,B-SKT TORN ALLEN C/CIL. M6X12 1.00,Electrico,2025-04-27,92.0,13.0,25,80.0,35.0,Proveedor C,6,ok
+448,"CHAPA 430 2,5X1250X2500 ESM",Herramientas,2025-06-18,73.0,12.0,11,74.0,17.0,Proveedor B,12,ok
+449,PORTA RODAMIENTO UCP,Electrico,2025-05-29,33.0,6.0,17,22.0,22.0,Proveedor A,14,critico
+450,"CHAPA 304 1,5X1500X3000 PVC",Mecanica,2025-04-19,190.0,6.0,33,163.0,43.0,Proveedor C,5,ok
+451,ucfc205 inox x 25 mm,Herramientas,2025-05-29,195.0,3.0,10,188.0,41.0,Proveedor C,3,ok
+452,bullon allen m5x 15,Hidraulico,2025-01-17,129.0,22.0,6,145.0,21.0,Proveedor B,12,ok
+453,ABRAZADERAS INOX,Herramientas,2025-04-25,93.0,16.0,8,101.0,10.0,Proveedor B,7,ok
+454,"racor recto 1/8 ,4",Mecanica,2025-01-07,81.0,13.0,25,69.0,46.0,Proveedor A,3,bajo
+455,ARANDELA PLANA MET 5 304,Hidraulico,2025-01-12,117.0,22.0,16,123.0,14.0,Proveedor A,8,ok
+456,ARANDELA PLANA 9/16 304,Mecanica,2025-03-30,44.0,17.0,7,54.0,30.0,Proveedor B,3,ok
+457,ucfb206 inox x 30 ,Electrico,2025-02-18,54.0,8.0,28,34.0,19.0,Proveedor A,5,ok
+458,"Server driver $, 400W F",Mecanica,2025-06-29,80.0,15.0,15,80.0,25.0,Proveedor A,3,ok
+459,ACOPLE TEE DE 10,Mecanica,2025-06-03,44.0,10.0,31,23.0,33.0,Proveedor C,4,critico
+460,"Server driver $, 400W F",Electrico,2025-01-20,146.0,18.0,14,150.0,10.0,Proveedor B,12,ok
+461,fichas speakon 4 pines  hembra ,Herramientas,2025-02-15,95.0,9.0,16,88.0,30.0,Proveedor A,6,ok
+462,power cable g,Electrico,2025-05-27,58.0,12.0,33,37.0,49.0,Proveedor C,3,critico
+463,arandela plana m 10 ,Mecanica,2025-05-23,157.0,13.0,11,159.0,17.0,Proveedor A,8,ok
+464,TUERCA MET 5X0.8 304,Mecanica,2025-01-02,192.0,2.0,33,161.0,20.0,Proveedor B,9,ok
+465,TUERCA 5/8 304,Hidraulico,2025-06-13,197.0,20.0,2,215.0,24.0,Proveedor A,4,ok
+466,"FRESA 2C. MD S992 12,00 MM TINAL-DORMER",Herramientas,2025-04-30,51.0,17.0,17,51.0,43.0,Proveedor B,9,bajo
+467,BULON C/EXAGONAL MET 6X20 304,Herramientas,2025-04-21,63.0,20.0,24,59.0,25.0,Proveedor C,2,ok
+468,PLACA DE RESINA ACETAL#15X410X1000MM,Mecanica,2025-02-10,48.0,18.0,23,43.0,19.0,Proveedor A,4,ok
+469,SKT TORN ALLEN C/CIL 12.9 M8X45,Hidraulico,2025-01-22,86.0,10.0,22,74.0,10.0,Proveedor B,10,ok
+470,Tobera-220671,Electrico,2025-03-31,94.0,11.0,23,82.0,41.0,Proveedor A,2,ok
+471,TRICETA ETMA TR3057 (STANDAR),Mecanica,2025-03-05,50.0,11.0,13,48.0,27.0,Proveedor C,11,ok
+472,ucf 205 inox x25mm,Hidraulico,2025-02-09,188.0,16.0,20,184.0,21.0,Proveedor C,9,ok
+473,BOBINA 24 VDC,Herramientas,2025-02-17,157.0,5.0,15,147.0,24.0,Proveedor A,1,ok
+474,Tuerca M6 doradas,Electrico,2025-06-17,-345.0,13.0,17,61.0,24.0,Proveedor B,12,ok
+475,FUENTE SWITCHING 24V-3A,Hidraulico,2025-05-06,28.0,15.0,21,22.0,16.0,Proveedor C,8,bajo
+476,TUERCA EXAG. DORADA M6,Herramientas,2025-06-15,77.0,14.0,15,76.0,30.0,Proveedor A,9,ok
+477,TUERCA AUTOFRENANTE MET. 10 304,Herramientas,2025-04-18,78.0,22.0,16,84.0,41.0,Proveedor A,2,ok
+478,placas 325x250x 1000,Hidraulico,2025-06-29,104.0,24.0,29,99.0,46.0,Proveedor C,9,ok
+479,discos corte 110 x 1,Electrico,2025-05-19,192.0,15.0,6,201.0,15.0,Proveedor B,10,ok
+480,selectora metalica de 2 posiciones ,Hidraulico,2025-03-18,73.0,1.0,13,61.0,30.0,Proveedor B,8,ok
+481,terminales de conrccion rapida ,Herramientas,2025-01-13,122.0,2.0,1,123.0,17.0,Proveedor B,7,ok
+482,tuerca 5/8 ,Herramientas,2025-02-26,66.0,13.0,10,69.0,16.0,Proveedor B,2,ok
+483,BISAGRAS PLASTICAS PARA GABINETE 49X22,Mecanica,2025-01-22,50.0,7.0,28,29.0,30.0,Proveedor C,8,critico
+484,"FILTRO REGULADOR DE PRESION CON MANOMETRO Y TRAMPA DE AGUA NEUMATICO 1/2 "" D 18,45 MM",Electrico,2025-03-04,133.0,15.0,19,129.0,16.0,Proveedor C,4,ok
+485,allen cab boton 5x10,Electrico,2025-04-07,162.0,22.0,37,147.0,40.0,Proveedor A,5,ok
+486,servo drive a5 1.5kw c,Hidraulico,2025-01-30,53.0,16.0,7,2928.0,23.0,Proveedor A,10,ok
+487,"planchuela 2""por1/8",Mecanica,2025-06-25,20.0,17.0,22,15.0,34.0,Proveedor B,3,critico
+488,Fresa MD HRC45 4F-6*15*50 punta plana,Hidraulico,2025-03-06,61.0,30.0,0,91.0,46.0,Proveedor B,3,ok
+489,BISELADA M12X24 ZINC,Hidraulico,2025-04-30,157.0,1.0,26,132.0,36.0,Proveedor C,3,ok
+490,MACIZO REDONDO DIAM.16 - BARRA RECTIFICADA,Mecanica,2025-03-07,149.0,1.0,4,146.0,40.0,Proveedor A,9,ok
+491,servo driver a5,Mecanica,2025-03-18,140.0,17.0,23,134.0,49.0,Proveedor C,13,ok
+492,interface 1 inv,Herramientas,2025-03-22,141.0,22.0,18,145.0,19.0,Proveedor B,6,ok
+493,"discos corte 115x1,6",Electrico,2025-05-10,130.0,8.0,23,115.0,48.0,Proveedor B,12,ok
+494,barra recina acetal 20x1000,Electrico,2025-03-06,174.0,4.0,27,151.0,23.0,Proveedor B,9,ok
+495,Inserto wnmg 080408-mm 2025,Hidraulico,2025-05-08,135.0,10.0,3,142.0,46.0,Proveedor C,2,ok
+496,buje reducc epoxi 3/4,Mecanica,2025-04-18,26.0,20.0,27,19.0,13.0,Proveedor A,12,bajo
+497,ARANDELA PLANA 9/16 304,Hidraulico,2025-03-04,44.0,9.0,36,17.0,26.0,Proveedor C,7,critico
+498,BORNE PORTAFUSIBLE SECC.P/FUSIBLE 5X20,Hidraulico,2025-06-26,83.0,12.0,18,77.0,25.0,Proveedor C,7,ok
+499,retenes 30-62-10,Hidraulico,2025-03-21,20.0,8.0,37,-9.0,32.0,Proveedor B,13,critico
